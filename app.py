@@ -47,7 +47,7 @@ def get_chatGpt_response(user_input, web_scraping_data):
 # GUI and main function Implimentation
 def main():
 
-    openai.api_key="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"
+    openai.api_key="API KEY"
 
     st.set_page_config(
         page_title="Relinns ChatBot",
